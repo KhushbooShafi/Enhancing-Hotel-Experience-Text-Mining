@@ -6,6 +6,8 @@ This repository contains the code and dataset analysis for the research paper:
 
 This study analyzes 50,175 hotel reviews from TripAdvisor using Text Mining, Sentiment Analysis (VADER), LDA Topic Modeling, and Cluster Analysis to extract insights that can help improve hospitality services for foreign guests in South Korea.
 
+**📖 Presented at the 2023 19th International Conference on Natural Computation, Fuzzy Systems and Knowledge Discovery (ICNC-FSKD).** 
+[🔗 Read the Full Paper on IEEE Xplore](url)
 
 ## 📌 How this study contributes?
 1. Explores the accommodation attributes important to English Speaking Tourists in South Korea
