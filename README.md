@@ -31,6 +31,7 @@ Features Extracted: Hotel Name, Reviewer Name, Country, Rating, Date of Stay, Da
 ### Data Collection
 
 Reviews were scraped using Selenium and processed using pandas and geopy.
+
 Non-English characters and irrelevant text were removed.
 
 ### Exploratory Data Analysis (EDA)
@@ -42,6 +43,7 @@ Non-English characters and irrelevant text were removed.
 ### Sentiment Analysis
 
 Used VADER Sentiment Analyzer to classify reviews into positive, neutral, and negative sentiments.
+
 Point-biserial correlation was used to compare sentiment scores with review ratings.
 
 ### Topic Modeling
@@ -59,8 +61,11 @@ Key topics identified:
 
 ### Cluster Analysis
 
-Hierarchical clustering was used to group hotels based on guest preferences.
-Suggested marketing strategies based on hotel-country clusters.
+1. Hierarchical clustering was used to group hotels based on guest preferences.
+2. Calculated the percentage of reviews per topic for each hotel and country.
+3. Used a correlation matrix to measure similarity in guest preferences.
+4. Applied Hierarchical Clustering (Ward’s Method) to group similar hotels & countries.
+5. Interpreted clusters to provide actionable insights for the hospitality industry.
 
 
 ## 🎯 Key Findings
