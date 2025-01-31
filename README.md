@@ -126,4 +126,18 @@ If you find this research useful, please cite it as follows:
 K. Shafi and S. Jin, "Enhancing the Hospitality Experience for Foreign Guests in South Korean Hotels: Insights from Online Reviews," 2023 19th International Conference on Natural Computation, Fuzzy Systems and Knowledge Discovery (ICNC-FSKD), Harbin, China, 2023, pp. 1-6, doi: 10.1109/ICNC-FSKD59587.2023.10280882. 
 
 
+## 📜 License
+This repository is licensed under the **Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)** License.  
+
+📌 **You MAY**:
+✔ Use the code for academic, educational, and research purposes.  
+✔ Modify and build upon it, as long as you provide credit.  
+
+🚫 **You MAY NOT**:
+❌ Use the code for commercial purposes
+❌ Claim this work as your own without attribution.  
+
+🔗 Read the full license: [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/)  
+
+
 
